@@ -1,0 +1,18 @@
+body{
+    background-color: bisque;
+
+}
+
+div{
+    background-color: blanchedalmond;
+    border: 1px solid pink;
+}
+
+.btn-purple{
+    background-color: mediumorchid;
+}
+
+.btn-info{
+    background-color: green;
+}
+
